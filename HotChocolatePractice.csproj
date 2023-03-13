@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="hotchocolate.aspnetcore" Version="13.0.5" />
+  </ItemGroup>
+
 </Project>
